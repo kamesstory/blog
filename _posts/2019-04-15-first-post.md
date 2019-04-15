@@ -18,7 +18,7 @@ For all my readers, however, this will be a good insight into what sorts of arti
 
 This first issue is a random summary of some of the more noteworthy articles I've read over the past month, along with a few select tidbits I've read over my past few years that I've remembered to save. They range from archaeology and artificial environments to AI, privacy, China, physics, and political tolerance, and follow broad themes of technology's impact and integration in our society, largely influenced by a Duke class centered on Info, Ethics, Tech & Policy. This batch will be longer than most, especially since I will be aiming to highlight the breadth of topics discussed, as well as some interesting articles over the course of a month.
 
-###Readings:
+### Readings:
 
 | Article Title | Summary + Opinions |
 |:--------:|:--------------------|
