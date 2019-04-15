@@ -6,8 +6,7 @@
 title: Leonids
 email:
 description: A simple and awesome blog theme powered by jekyll.
-url: "http://kamesstory.github.io"
-baseurl: "/blog"
+url: "http://kamesstory.github.io/blog"
 keywords: ["blog", "jekyll"]
 
 #
