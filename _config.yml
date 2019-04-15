@@ -36,10 +36,9 @@ owner:
   name: readings
   avatar: leonids-logo.png
   job: "from jason wang"
-  bio: |
-    released twice a week
-    may increase knowledge
-    not FDA-approved
+  bio: "released twice a week\n
+    may stimulate the minds\n
+    not FDA-approved"
   email:
   disqus-shortname:
   twitter: #username
