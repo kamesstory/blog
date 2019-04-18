@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: readings from jason wang
+title: Ouranos, by jason wang
 email:  jason.haofeng.wang@gmail.com
-description: what goes in should come out
+description: everything under the sky
 url: "https://kamesstory.github.io/blog"
 keywords: ["blog", "jekyll"]
 
@@ -33,9 +33,9 @@ kramdown:
 ####################################
 #
 owner:
-  name: readings
+  name: Ouranos
   avatar: leonids-logo.png
-  job: "from jason wang"
+  job: "by Jason Wang"
   bio: "released twice a week |
     may stimulate the mind |
     not FDA-approved"
