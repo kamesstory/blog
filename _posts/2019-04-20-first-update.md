@@ -5,9 +5,9 @@ excerpt: "More articles from Jason Wang! It even includes an article about how n
 categories: [article assortment]
 comments: true
 image:
-  feature: https://images.unsplash.com/photo-1509536011809-cb92bafafd75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&fit=crop&w=3300&h=1500
-  credit: simon migaj
-  creditlink: https://unsplash.com/photos/ww4BDfglPyA
+  feature: https://images.unsplash.com/photo-1523357585206-175e971f2ad9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&fit=crop&w=3300&h=1500
+  credit: alessandra caretto
+  creditlink: https://unsplash.com/photos/cAY9X4rPG3g
 ---
 
 This issue starts a little meta, with an article focused on how news is useless and that people shouldn't waste their time reading it. I do think that there is a difference, however, between reading current news and reading long-form articles that introduce comprehensive opinions or overviews of situations. A lot of the articles I find myself interested in posting about are these types of information, which contribute to broad knowledge of the world that in many cases are also applicable to my learning as a student and as a technologist interested in how society is influenced by technology, as well as unrelated problems within society that are of critical importance. My pitch: read my recommendations or thoughts instead of fast-paced news!
